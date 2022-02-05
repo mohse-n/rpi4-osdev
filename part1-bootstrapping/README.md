@@ -106,3 +106,7 @@ Writing linker scripts is [worth investigating](http://ftp.gnu.org/old-gnu/Manua
 _Now you're ready to compile and then boot your OS!_
 
 [Go to part2-building >](../part2-building)
+
+
+m: good explanation of a linker script   
+https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware
