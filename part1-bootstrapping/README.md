@@ -109,4 +109,7 @@ _Now you're ready to compile and then boot your OS!_
 
 
 m: good explanation of a linker script   
-https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware
+https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware  
+
+This is also good
+https://mcyoung.xyz/2021/06/01/linker-script/
